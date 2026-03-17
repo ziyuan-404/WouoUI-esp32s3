@@ -1,6 +1,6 @@
 # **WouoUI for ESP32-S3 (128x128)**
 
-[English Version](https://www.google.com/search?q=README_English_NoEmoji.md)
+[English Version](https://github.com/ziyuan-404/WouoUI-esp32s3/blob/main/README.md)
 
 这是一个基于 [RQNG/WouoUI](https://github.com/RQNG/WouoUI) 的 **ESP32-S3** 移植版本。本项目模仿了稚晖君 MonoUI 风格，实现了一套超丝滑的单色 OLED 菜单 UI，并使用 EC11 旋转编码器进行交互控制。
 
