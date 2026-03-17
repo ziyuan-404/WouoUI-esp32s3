@@ -1,5 +1,7 @@
 # **WouoUI for ESP32-S3 (128x128)**
 
+[Chinese Version](https://github.com/ziyuan-404/WouoUI-esp32s3/blob/main/README-CH.md)
+
 This is an **ESP32-S3** ported version based on [RQNG/WouoUI](https://github.com/RQNG/WouoUI). This project mimics the MonoUI style created by Zhihui Jun, implementing an ultra-smooth monochrome OLED menu UI, controlled by an EC11 rotary encoder.
 
 The current version is fully adapted and optimized primarily for **128x128 resolution** OLED screens.
